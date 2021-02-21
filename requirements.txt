@@ -1,5 +1,4 @@
 certifi==2020.12.5
-mkl-fft==1.2.1
 mkl-random==1.1.1
 mkl-service==2.3.0
 numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
