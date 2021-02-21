@@ -1,0 +1,9 @@
+certifi==2020.12.5
+mkl-fft==1.2.1
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+scikit-learn==0.20.3
+scipy @ file:///C:/ci/scipy_1612469765256/work
+six @ file:///C:/ci/six_1605205426665/work
+wincertstore==0.2
